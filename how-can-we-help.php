@@ -224,7 +224,7 @@ function MM_swapImage() { //v3.0
     <!-- Slider
     ======================================================================== -->
     <div class="revslider-wrapper container">
-        <img src="images/how-can-we-help6.jpg">
+        <img class="img-slider" src="images/how-can-we-help6.jpg">
     </div>  <!-- Slider / End -->    <hr class="sep20">
 
     <!-- Content
@@ -330,14 +330,16 @@ function MM_swapImage() { //v3.0
           gskenderov@cleansciencestech.com</a><br>
           <br>
         </p>
-          <p class="p2"><strong>Michael Jennings</strong>, Customer Service Manager - Ext. 354<a href="mailto:mjennings@cleansciencestech.com"><br />
-          mjennings@cleansciencestech.com</a><br>
-          <br>
-          </p>
-        <p class="p2"><strong>Tommy Broome</strong>, Shipping &amp; Receiving  - Ext. 356<br />
+
+        <p class="p2"><strong>Jorge Baez</strong>, Shipping &amp; Receiving  - Ext. 356<br />
         <a href="mailto:tbroome@cleansciencestech.com">tbroome@cleansciencestech.com</a><br>
         <br>
         </p>
+        <p class="p2"><strong>Mark West</strong>, Shipping &amp; Receiving  - Ext. 356<br />
+        <a href="mailto:mwest@cleansciencestech.com">mwest@cleansciencestech.com</a><br>
+        <br>
+        </p>
+
         <p class="p2"><strong>Brian Kaye</strong>, Office Services  - Ext. 355<br />
         <a href="mailto:bkaye@cleansciencestech.com">bkaye@cleansciencestech.com</a><br>
         <br>
@@ -359,7 +361,7 @@ function MM_swapImage() { //v3.0
           <p class="p4a"><strong>Serving customers nationally and in California. Including The  Bay Area and Silicon Valley communities of:</strong><br>
             <br>
           </p>
-        <p class="p4abc">Campbell &#8226; Cupertino &#8226; Fremont &#8226; Hayward &#8226; Livermore &#8226; Los Gatos<br />Menlo Park &#8226; Milpitas &#8226; Mountain &#8226; View Newark &#8226; Palo Alto <br />San Jose &#8226; Santa Clara &#8226; Saratoga &#8226; Sunnyvale &#8226; Union City</p>
+        <p class="p4abc">Campbell &#8226; Cupertino &#8226; Fremont &#8226; Hayward &#8226; Livermore &#8226; Los Gatos<br />Menlo Park &#8226; Milpitas &#8226; Mountain View &#8226; Newark &#8226; Palo Alto <br />San Jose &#8226; Santa Clara &#8226; Saratoga &#8226; Sunnyvale &#8226; Union City</p>
            </div>
 
 <div class="one-third pull-right"> <input type="button" 
@@ -369,7 +371,7 @@ function MM_swapImage() { //v3.0
   onClick="javascript:emailCurrentPage()" 
   value="Email"/>
         <p class="p1"><strong>40939 Encyclopedia Circle <br />
-          Fremont, CA 92436-2436<br />
+          Fremont, CA 94538-2436<br />
           </strong>Tel 510-651-6600 &nbsp;&nbsp;<br />
           Fax 510-651-6610<br>
           <br>
@@ -404,7 +406,7 @@ function MM_swapImage() { //v3.0
         <div class="info">
             <div class="container">
 
-<p><a href='index.php'>Home</a>&nbsp; | &nbsp;<a href='index.php'>Who We Are</a>&nbsp; | &nbsp;<a href='precision-cleaning.php'>What We Do</a>&nbsp; | &nbsp;<a href='precision-chemical-cleaning.php'>Cleaning Services</a>&nbsp; | &nbsp;<a href="bead-blast-arc-spray.php">Refurbishing Services</a>&nbsp; | &nbsp;<a href='component-disassembly-assembly.php'>Specialty Services</a>&nbsp; | &nbsp;<a href='customer-services.php'>Customer Services</a>&nbsp; | &nbsp;<a href='our-policy.php'>Quality Controls</a>&nbsp; | &nbsp;<a href='how-can-we-help.php'>How Can We Help You</a> <br>&copy; 2015 Clean Sciences Technology. All rights Reserved.</p>
+<p><a href='index.php'>Home</a>&nbsp; | &nbsp;<a href='index.php'>Who We Are</a>&nbsp; | &nbsp;<a href='precision-cleaning.php'>What We Do</a>&nbsp; | &nbsp;<a href='precision-chemical-cleaning.php'>Cleaning Services</a>&nbsp; | &nbsp;<a href="bead-blast-arc-spray.php">Refurbishing Services</a>&nbsp; | &nbsp;<a href='component-disassembly-assembly.php'>Specialty Services</a>&nbsp; | &nbsp;<a href='customer-services.php'>Customer Services</a>&nbsp; | &nbsp;<a href='our-policy.php'>Quality Control</a>&nbsp; | &nbsp;<a href='how-can-we-help.php'>How Can We Help You</a> <br>&copy; 2015 Clean Sciences Technology. All rights Reserved.</p>
                 <!-- Copyright -->
                 <ul class="copyright">
                     <li></li>

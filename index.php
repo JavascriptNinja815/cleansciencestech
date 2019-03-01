@@ -227,7 +227,7 @@ function MM_swapImage() { //v3.0
     ======================================================================== -->
     
     <div class="revslider-wrapper container">
-        <img src="images/precision-parts-cleaning-refurbishing7.jpg">
+        <img class="img-slider" src="images/precision-parts-cleaning-refurbishing7.jpg" ">
     </div>
     <!-- Slider / End -->
 
@@ -240,7 +240,7 @@ function MM_swapImage() { //v3.0
         <!-- Services -->    <?php include 'side-menu.php'; ?>
         <div class=" three-fourth">
            <div class="left-paddin">
-            <p>Clean Sciences Technology has been providing precision parts cleaning and refurbishing solutions for ten years. Our 19,000 square foot, state-of-the art facility is strategically located near the Silicon Valley customers we serve. These customers are privately and publicly owned companies as well as university and government research laboratories. Many of them are major players in the following high-tech industries:
+            <p>Clean Sciences Technology has been providing precision parts cleaning and refurbishing solutions for over 15 years. Our 19,000 square foot, state-of-the art facility is strategically located near the Silicon Valley customers we serve. These customers are privately and publicly owned companies as well as university and government research laboratories. Many of them are major players in the following high-tech industries:
               
             </p>
             <hr class="sep10">
@@ -253,6 +253,7 @@ function MM_swapImage() { //v3.0
                     <li> &#8226; Bio-technology</li>
                     <li> &#8226; Custom Fabrication</li>
                     <li> &#8226; Data Storage</li>
+                    <li style="color: white;"> Clean Sciences Inc</li>
                 </ul>
             </div></div>
             
@@ -266,7 +267,8 @@ function MM_swapImage() { //v3.0
                     <li> &#8226; Green Tech</li>
                     <li> &#8226; Laser</li>
                     <li> &#8226; Machined Parts</li>
-                    
+                    <li style="color: white;"> Pentagon Technologies</li>
+                    <li style="color: white;"> TMPI</li>                    
                 </ul>
             </div></div><div class="service one-third column-last">  <div class="service-description">
          
@@ -278,8 +280,11 @@ function MM_swapImage() { //v3.0
                     <li> &#8226; Optoelectronics</li>
                     <li> &#8226; Semiconductor</li>
                     <li> &#8226; Solar Energy</li>
+                    <li style="color: white;"> Persys</li>
+                    <li style="color: white;"> Quantum Clean</li>
                     
                 </ul>
+                
                 
             </div></div>
             

@@ -224,7 +224,7 @@ function MM_swapImage() { //v3.0
     <!-- Slider
     ======================================================================== -->
     <div class="revslider-wrapper container">
-        <img src="images/customer-services5a.jpg">
+        <img class="img-slider" src="images/customer-services5a.jpg">
     </div>  <!-- Slider / End -->    <hr class="sep20">
 
     <!-- Content
@@ -236,7 +236,7 @@ function MM_swapImage() { //v3.0
             <h4>1, 2, & 3 Day Service Options</h4>
 <p>We offer various service rates depending on the complexity of the job and customer time requirements. Generally a simple machined part degrease can be done same or next day. Orders with heavy tool part deposition or those that require special refurbish treatments take up to three days to complete.
 
-The facility operates weekday day and evening shifts, and an occasional weekend shift. With this kind of production coverage, we can minimize expensive tool down times and provide greater service around the major holidays and throughout the year.</p>
+We help you minimize expensive tool down times throughout the year and during the special holiday periods.</p>
 <br>
 <h4>Order Pick-Up & Delivery</h4>
 
@@ -272,7 +272,7 @@ The facility operates weekday day and evening shifts, and an occasional weekend 
         <div class="info">
             <div class="container">
 
-<p><a href='index.php'>Home</a>&nbsp; | &nbsp;<a href='index.php'>Who We Are</a>&nbsp; | &nbsp;<a href='precision-cleaning.php'>What We Do</a>&nbsp; | &nbsp;<a href='precision-chemical-cleaning.php'>Cleaning Services</a>&nbsp; | &nbsp;<a href="bead-blast-arc-spray.php">Refurbishing Services</a>&nbsp; | &nbsp;<a href='component-disassembly-assembly.php'>Specialty Services</a>&nbsp; | &nbsp;<a href='customer-services.php'>Customer Services</a>&nbsp; | &nbsp;<a href='our-policy.php'>Quality Controls</a>&nbsp; | &nbsp;<a href='how-can-we-help.php'>How Can We Help You</a> <br>&copy; 2015 Clean Sciences Technology. All rights Reserved.</p>
+<p><a href='index.php'>Home</a>&nbsp; | &nbsp;<a href='index.php'>Who We Are</a>&nbsp; | &nbsp;<a href='precision-cleaning.php'>What We Do</a>&nbsp; | &nbsp;<a href='precision-chemical-cleaning.php'>Cleaning Services</a>&nbsp; | &nbsp;<a href="bead-blast-arc-spray.php">Refurbishing Services</a>&nbsp; | &nbsp;<a href='component-disassembly-assembly.php'>Specialty Services</a>&nbsp; | &nbsp;<a href='customer-services.php'>Customer Services</a>&nbsp; | &nbsp;<a href='our-policy.php'>Quality Control</a>&nbsp; | &nbsp;<a href='how-can-we-help.php'>How Can We Help You</a> <br>&copy; 2015 Clean Sciences Technology. All rights Reserved.</p>
                 <!-- Copyright -->
                 <ul class="copyright">
                     <li></li>

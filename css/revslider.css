@@ -18,7 +18,9 @@ website:    http://www.themepunch.com
     max-height: 535px;
 }
 
-
+.img-slider {
+    width: 100%;
+}
 .tp-simpleresponsive .caption {
     position: absolute;
     visibility: hidden;

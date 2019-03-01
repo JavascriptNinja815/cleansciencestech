@@ -207,7 +207,7 @@ function MM_swapImage() { //v3.0
     <!-- Slider
     ======================================================================== -->
     <div class="revslider-wrapper container">
-        <img src="images/quote1.jpg">
+        <img class="img-slider" src="images/quote1.jpg">
     </div>  <!-- Slider / End -->    <hr class="sep20">
 
     <!-- Content
@@ -333,7 +333,7 @@ width='100%' height="1575" seamless></iframe>
            
 
 
-<p><a href='index.php'>Home</a>&nbsp; | &nbsp;<a href='index.php'>Who We Are</a>&nbsp; | &nbsp;<a href='precision-cleaning.php'>What We Do</a>&nbsp; | &nbsp;<a href='precision-chemical-cleaning.php'>Cleaning Services</a>&nbsp; | &nbsp;<a href="bead-blast-arc-spray.php">Refurbishing Services</a>&nbsp; | &nbsp;<a href='component-disassembly-assembly.php'>Specialty Services</a>&nbsp; | &nbsp;<a href='customer-services.php'>Customer Services</a>&nbsp; | &nbsp;<a href='our-policy.php'>Quality Controls</a>&nbsp; | &nbsp;<a href='how-can-we-help.php'>How Can We Help You</a> <br>&copy; 2015 Clean Sciences Technology. All rights Reserved.</p>
+<p><a href='index.php'>Home</a>&nbsp; | &nbsp;<a href='index.php'>Who We Are</a>&nbsp; | &nbsp;<a href='precision-cleaning.php'>What We Do</a>&nbsp; | &nbsp;<a href='precision-chemical-cleaning.php'>Cleaning Services</a>&nbsp; | &nbsp;<a href="bead-blast-arc-spray.php">Refurbishing Services</a>&nbsp; | &nbsp;<a href='component-disassembly-assembly.php'>Specialty Services</a>&nbsp; | &nbsp;<a href='customer-services.php'>Customer Services</a>&nbsp; | &nbsp;<a href='our-policy.php'>Quality Control</a>&nbsp; | &nbsp;<a href='how-can-we-help.php'>How Can We Help You</a> <br>&copy; 2015 Clean Sciences Technology. All rights Reserved.</p>
                           <!-- Copyright -->
                 <ul class="copyright">
                     <li></li>

@@ -225,7 +225,7 @@ function MM_swapImage() { //v3.0
     <!-- Slider
     ======================================================================== -->
     <div class="revslider-wrapper container">
-        <img src="images/quality1.jpg">
+        <img class="img-slider" src="images/quality1.jpg">
     </div>  <!-- Slider / End -->    <hr class="sep20">
 
     <!-- Content
@@ -246,7 +246,7 @@ function MM_swapImage() { //v3.0
 <strong> Clean Dry Air </strong> - Air is filtered and maintained according to a strict PM schedule with desiccant dryers and .03 micron line filters.
 <br /><br />
 <strong> Contamination Control </strong> - The Class 100 cleanroom environment is verified with daily  particle monitoring. Part inspections, assemblies and packaging are  performed on laminar airflow workbenches that are free of particulates. Our  Quality Assurance also includes data collected from an optional Liquid Particle  Count procedure on cleaned parts. <br /><br />
-<strong> The Environment </strong> - We are fully compliant with EPA, USD, BAAQMD and City of Fremont HAZMAT statutes and regulations. In 2015, CST earned the Union Sanitary District's Certificate of Merit Award for exceptional wastewater treatment.
+<strong> The Environment </strong> - For 2014 - 2016 and 2018, CST earned the Union Sanitary District's Certificate of Merit Award for exceptional wastewater treatment.
 </p>
 
         </div>
@@ -274,7 +274,7 @@ function MM_swapImage() { //v3.0
         <div class="info">
             <div class="container">
 
-<p><a href='index.php'>Home</a>&nbsp; | &nbsp;<a href='index.php'>Who We Are</a>&nbsp; | &nbsp;<a href='precision-cleaning.php'>What We Do</a>&nbsp; | &nbsp;<a href='precision-chemical-cleaning.php'>Cleaning Services</a>&nbsp; | &nbsp;<a href="bead-blast-arc-spray.php">Refurbishing Services</a>&nbsp; | &nbsp;<a href='component-disassembly-assembly.php'>Specialty Services</a>&nbsp; | &nbsp;<a href='customer-services.php'>Customer Services</a>&nbsp; | &nbsp;<a href='our-policy.php'>Quality Controls</a>&nbsp; | &nbsp;<a href='how-can-we-help.php'>How Can We Help You</a> <br>&copy; 2015 Clean Sciences Technology. All rights Reserved.</p>
+<p><a href='index.php'>Home</a>&nbsp; | &nbsp;<a href='index.php'>Who We Are</a>&nbsp; | &nbsp;<a href='precision-cleaning.php'>What We Do</a>&nbsp; | &nbsp;<a href='precision-chemical-cleaning.php'>Cleaning Services</a>&nbsp; | &nbsp;<a href="bead-blast-arc-spray.php">Refurbishing Services</a>&nbsp; | &nbsp;<a href='component-disassembly-assembly.php'>Specialty Services</a>&nbsp; | &nbsp;<a href='customer-services.php'>Customer Services</a>&nbsp; | &nbsp;<a href='our-policy.php'>Quality Control</a>&nbsp; | &nbsp;<a href='how-can-we-help.php'>How Can We Help You</a> <br>&copy; 2015 Clean Sciences Technology. All rights Reserved.</p>
                 <!-- Copyright -->
                 <ul class="copyright">
                     <li></li>

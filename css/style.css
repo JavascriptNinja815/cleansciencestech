@@ -39,8 +39,8 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
         overflow-x: hidden;
         overflow-y: auto;
         color: #333;
-		  font: 16px/1.7 "futura-pt",sans-serif;
-           font-family: "futura-pt",sans-serif;
+        font: 16px/1.7 "futura-pt",sans-serif;
+        font-family: "futura-pt",sans-serif;
         -webkit-font-smoothing: antialiased;     font-weight: 300;
 		font-family: "futura-pt",sans-serif;
     }
@@ -48,10 +48,10 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
     font-family: 'futura-pt';
     src: url('../font/ufonts.com_futura-book-webfont.eot');
     src: url('../font/ufonts.com_futura-book-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../font/ufonts.com_futura-book-webfont.woff2') format('woff2'),
-         url('../font/ufonts.com_futura-book-webfont.woff') format('woff'),
-         url('../font/ufonts.com_futura-book-webfont.ttf') format('truetype'),
-         url('../font/ufonts.com_futura-book-webfont.svg#futura_bkbook') format('svg');
+        url('../font/ufonts.com_futura-book-webfont.woff2') format('woff2'),
+        url('../font/ufonts.com_futura-book-webfont.woff') format('woff'),
+        url('../font/ufonts.com_futura-book-webfont.ttf') format('truetype'),
+        url('../font/ufonts.com_futura-book-webfont.svg#futura_bkbook') format('svg');
     font-weight: normal;
     font-style: normal;
 
@@ -214,8 +214,8 @@ color: #454343;
         border: 1px solid #e1e1e1;
         border-radius: 3px;    font-weight: 300;
         color: #959595;
-      font: 16px/1.7 "futura-pt",sans-serif;
-	   font-family: "futura-pt",sans-serif;
+        font: 16px/1.7 "futura-pt",sans-serif;
+	    font-family: "futura-pt",sans-serif;
         font-weight: 400;
         font-weight: 500;
         -webkit-transition: border linear .3s, box-shadow linear .3s;
@@ -274,7 +274,7 @@ color: #454343;
         position: relative;
         margin: 0 auto;
         padding: 0;
-        max-width: 1060px;
+        /* max-width: 1060px; */
     }
     .container:after {
         display: block;
@@ -643,9 +643,9 @@ color: #454343;
         border: 1px solid #e1e1e1;
         border-radius: 3px;
         -webkit-transition: all .3s ease;
-           -moz-transition: all .3s ease;
+        -moz-transition: all .3s ease;
             -ms-transition: all .3s ease;
-             -o-transition: all .3s ease;
+            -o-transition: all .3s ease;
                 transition: all .3s ease;
     }
     .logo-list li a:hover {
@@ -678,9 +678,9 @@ color: #454343;
         background: #333;
         opacity: .9;
         -webkit-transition: all .3s ease-in-out;
-           -moz-transition: all .3s ease-in-out;
+        -moz-transition: all .3s ease-in-out;
             -ms-transition: all .3s ease-in-out;
-             -o-transition: all .3s ease-in-out;
+            -o-transition: all .3s ease-in-out;
                 transition: all .3s ease-in-out;
     }
     .team-member:hover {
@@ -773,7 +773,7 @@ color: #454343;
         /* padding: 10px 0; */
         /* border-bottom: 1px solid #ececec; */
         font-weight: 500;
-      font-family: "futura-pt",sans-serif;
+        font-family: "futura-pt",sans-serif;
     }
     .service li:last-child {
         border: none;
@@ -1252,7 +1252,6 @@ color: #454343;
 /* ------------------------------------------------------------------------------- */
 /*  10.  Blog
 /* ------------------------------------------------------------------------------- */
-   
     .post {
         margin: 0 0 55px;
         padding: 0 0 35px;
@@ -1510,9 +1509,9 @@ color: #454343;
         height: 100%;
         opacity: 0;
         -webkit-transition: all 0.3s ease;
-           -moz-transition: all 0.3s ease;
+        -moz-transition: all 0.3s ease;
             -ms-transition: all 0.3s ease;
-             -o-transition: all 0.3s ease;
+            -o-transition: all 0.3s ease;
                 transition: all 0.3s ease;
         -webkit-backface-visibility: hidden;
     }
@@ -1521,16 +1520,16 @@ color: #454343;
     }
     .project-item img {
         -webkit-transition: all 0.2s linear;
-           -moz-transition: all 0.2s linear;
+        -moz-transition: all 0.2s linear;
             -ms-transition: all 0.2s linear;
-             -o-transition: all 0.2s linear;
+            -o-transition: all 0.2s linear;
                 transition: all 0.2s linear;
     }
     .project-item:hover img {
         -webkit-transform: scale(1.05,1.05);
-           -moz-transform: scale(1.05,1.05);
-            -ms-transform: scale(1.05,1.05);
-             -o-transform: scale(1.05,1.05);
+        -moz-transform: scale(1.05,1.05);
+        -ms-transform: scale(1.05,1.05);
+            -o-transform: scale(1.05,1.05);
                 transform: scale(1.05,1.05);
     }
     .project-item .icon-image {
@@ -1672,19 +1671,19 @@ span.slicknav_arrow {
     }
     .isotope, .isotope .isotope-item {/* change duration value to whatever you like */
         -webkit-transition-duration: 0.8s;
-           -moz-transition-duration: 0.8s;
+        -moz-transition-duration: 0.8s;
                 transition-duration: 0.8s;
     }
     .isotope {
         -webkit-transition-property: height, width;
-           -moz-transition-property: height, width;
+        -moz-transition-property: height, width;
                 transition-property: height, width;
     }
     .isotope .isotope-item {
         -webkit-transition-property: -webkit-transform, opacity;
-           -moz-transition-property:    -moz-transform, opacity;
+        -moz-transition-property:    -moz-transform, opacity;
             -ms-transition-property:     -ms-transform, opacity;
-             -o-transition-property:         top, left, opacity;
+            -o-transition-property:         top, left, opacity;
                 transition-property:         transform, opacity;
     }
 
@@ -2023,7 +2022,7 @@ span.slicknav_arrow {
         font-size:12px;
         font-family: Arial, Helvetica, sans-serif!important;
     }
-	 #footer .info p a{color:#FFF; text-decoration:underline}
+	#footer .info p a{color:#FFF; text-decoration:underline}
     .copyright {
         float: left;
     }
@@ -2111,7 +2110,7 @@ border-left: 1px solid #778;
 border-top: 1px solid #778;
 color: white;
 z-index: 999;}
- 
+
 /* Holly Hack for IE \*/
 * html .sidebarmenu ul li { float: left; height: 1%; }
 * html .sidebarmenu ul li a { height: 1%; }
