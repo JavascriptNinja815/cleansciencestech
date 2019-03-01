@@ -1,0 +1,193 @@
+/* ----------------------------------------------------------------------------- */
+/*  Boxed Layout
+/* ----------------------------------------------------------------------------- */
+
+
+.bg-cover {
+    background-attachment: fixed;
+    background-position: 0% 50%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+body {
+    background-color: #EDFFFF;
+}
+#body-wrapper {
+    /* left: 50%; */
+    margin: 0 auto;
+    padding: 0 2px;
+    width: 1060px;
+    /* -webkit-box-shadow: 0 0 4px rgba(0,0,0,.3); */
+    /* box-shadow: 0 0 4px rgba(0,0,0,.3); */
+    -webkit-box-shadow: 1px 3px 25px -5px rgba(0,0,0,0.75);
+    -moz-box-shadow: 1px 3px 25px -5px rgba(0,0,0,0.75);
+    box-shadow: 1px 3px 25px -5px rgba(0,0,0,0.75);
+    Copy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Text;
+}
+
+
+
+
+
+/* ------------------------------------------------------------------------------- */
+/*  Media Queries
+/* ------------------------------------------------------------------------------- */
+
+
+/* Standard 960 or larger (browsers) */
+@media only screen and (min-width: 960px) {
+
+}
+
+
+
+/* Smaller than standard 960 (devices and browsers) */
+@media only screen and (max-width: 979px) {
+
+    #body-wrapper {
+        margin: 0 auto;
+        width: 708px;
+        padding: 0 5px;
+    }
+    .fullwidth {
+        margin-right: -50px !important;
+        margin-left: -50px !important;
+    }
+    .fullwidth-padding {
+        margin-right: -50px !important;
+        margin-left: -50px !important;
+        padding-right: 50px !important;
+        padding-left: 50px !important;
+    }
+
+}
+
+
+
+/* Tablet Portrait size to standard 960 (devices and browsers) */
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+
+}
+
+
+
+/* All Mobile Sizes (devices and browser) */
+@media only screen and (max-width: 767px) {
+
+    #body-wrapper {
+        margin: 0 auto;
+        width: 440px;
+        padding: 0 2px;
+    }
+    .fullwidth {
+        margin-right: -30px !important;
+        margin-left: -30px !important;
+    }
+    .fullwidth-padding {
+        margin-right: -30px !important;
+        margin-left: -30px !important;
+        padding-right: 30px !important;
+        padding-left: 30px !important;
+    }
+
+}
+
+
+
+/* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+
+}
+
+
+
+/* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
+@media only screen and (max-width: 479px) {
+
+    #body-wrapper {
+        margin: 0 auto;
+        width: 370px;
+        padding: 0 2px;
+    }
+    .fullwidth {
+        margin-right: -25px !important;
+        margin-left: -25px !important;
+    }
+    .fullwidth-padding {
+        margin-right: -25px !important;
+        margin-left: -25px !important;
+        padding-right: 25px !important;
+        padding-left: 25px !important;
+    }
+
+}
+
+@media only screen and (max-width: 479px) {
+
+    .one-full       { width: 100%; }
+    .one-half       { width: 100%; }
+    .one-third      { width: 100%; }
+    .two-third      { width: 77%; }
+    .one-fourth     { width: 100%; }
+    .three-fourth   { width: 100%; }
+    .one-fifth      { width: 100%; }
+    .two-fifth      { width: 100%; }
+    .three-fifth    { width: 100%; }
+    .four-fifth     { width: 100%; }
+    .one-sixth      { width: 100%; }
+    .five-sixth     { width: 100%; }
+
+}
+
+
+
+@media only screen and (max-width: 450px) {
+
+    #body-wrapper {
+        margin: 0 auto;
+        width: 100%;
+        padding: 0 2px;
+    }
+    .one-full       { width: 100%; }
+    .one-half       { width: 100%; }
+    .one-third      { width: 100%; }
+    .two-third      { width: 77%; }
+    .one-fourth     { width: 100%; }
+    .three-fourth   { width: 100%; }
+    .one-fifth      { width: 100%; }
+    .two-fifth      { width: 100%; }
+    .three-fifth    { width: 100%; }
+    .four-fifth     { width: 100%; }
+    .one-sixth      { width: 100%; }
+    .five-sixth     { width: 100%; }
+
+    .fullwidth {
+        margin-right: -25px !important;
+        margin-left: -25px !important;
+    }
+    .fullwidth-padding {
+        margin-right: -25px !important;
+        margin-left: -25px !important;
+        padding-right: 25px !important;
+        padding-left: 25px !important;
+    }
+
+}

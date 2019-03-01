@@ -1,0 +1,17 @@
+@font-face { 
+font-family: customFont; 
+src: url('fonts/GOTHIC.TTF'); /* Edit this line */ 
+} 
+@font-face { 
+font-family: customFont1; 
+src: url('fonts/GOTHICB.TTF'); /* Edit this line */ 
+} 
+#text {
+    font-family: "futura-pt",sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 20px;
+    color: #454343;
+    margin-top: -15px;
+}
