@@ -23,7 +23,9 @@
 
 html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,and,address,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video,input,textarea,select{margin:0;padding:0;outline:0;border:0;background:transparent;vertical-align:baseline;font-size:100%;}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block;}body{}abbr[title],dfn[title]{border-bottom:1px dotted;cursor:help;}blockquote,q{quotes:none;}blockquote:before,blockquote:after,q:before,q:after{content:none;}del{text-decoration:line-through;}hr{clear:both;margin:0;padding:0;height:1px;border:0;background:transparent;color:transparent;}mark{background-color:#ffffb3;font-style:italic;}input,select{vertical-align:middle;}ins{background-color:red;color:white;text-decoration:none;}ol,ul{list-style:none;}table{border-spacing:0;border-collapse:collapse;}
 
-.clear{display:block;visibility:hidden;clear:both;overflow:hidden;width:0;height:0;}.clearfix:after{display:block;visibility:hidden;clear:both;width:0;height:0;content:' ';font-size:0;line-height:0;line-line-line-line-line-line-;}* html .clearfix,:first-child+html .clearfix{zoom:1;}
+.clear{display:block;visibility:hidden;clear:both;overflow:hidden;width:0;height:0;}
+.clearfix:after{
+    display:block;visibility:hidden;clear:both;width:0;height:0;content:' ';font-size:0;line-height:0;}* html .clearfix,:first-child+html .clearfix{zoom:1;}
 
 
 /* ----------------------------------------------------------------------------- */
