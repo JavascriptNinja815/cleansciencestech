@@ -332,7 +332,7 @@ function MM_swapImage() { //v3.0
         </p>
 
         <p class="p2"><strong>Jorge Baez</strong>, Shipping &amp; Receiving  - Ext. 356<br />
-        <a href="mailto:tbroome@cleansciencestech.com">tbroome@cleansciencestech.com</a><br>
+        <a href="mailto:jbaez@cleansciencestech.com">jbaez@cleansciencestech.com</a><br>
         <br>
         </p>
         <p class="p2"><strong>Mark West</strong>, Shipping &amp; Receiving  - Ext. 356<br />
@@ -349,7 +349,7 @@ function MM_swapImage() { //v3.0
         <br>
         </p>
         <p class="p2"><strong>Jonathan Kaye</strong>, CFO/Accounts Payable - 510-440-8678<br />
-<a href="mailto:jkaye@calogic.net">jkaye@calogic.net</a><br>
+<a href="mailto:jkaye@cleansciences.com">jkaye@cleansciences.com</a><br>
 <br>
 </p>
         <p class="p2">&nbsp;</p>
